@@ -1,3 +1,7 @@
+! Title: Distractions Blocklist
+! Expires: 1 day
+! Description: A filter list for uBlock Origin which blocks distractive elements from popular websites.
+
 ! Stack Exchange
 stackexchange.com##.js-sticky-leftnav.left-sidebar--sticky-container
 stackexchange.com##.p0.s-sidebarwidget__items.s-sidebarwidget--content
