@@ -28,7 +28,6 @@ Alternatively, you can install it manually by
 - instagram.com
 - tiktok.com
 - tumblr.com
-- discord.com
 
 ## Attention
-Please note that use of this filter will result in limited access to platform services, this blocklist is meant to browse the internet, not interact with it. As such on some websites it may remove the ability to comment, subscribe, save, or signin depending on the website. 
+Please note that use of this filter will result in limited access to platform services, this blocklist is meant to browse the internet, not interact with it. As such on some websites it may remove the ability to comment, subscribe, save, or signin depending on the website. Wiki sites or forum sites such as fandom.com, stackexchange.com and reddit.com will have its social media elements removed completely to give you a clutter and advertisement free browsing experience which you can view but cannot post. Social media apps like linkedin.com and discord.com maintain much of its messaging and social media features, but blocks advertisements or paid subscription from showing up. This blocklist is meant to help people avoid spending money, doomscrolling, or otherwise getting distracted by secondary site features. If you have this installed but need to post on a forum site, you can temporarily disable the extension by opening uBlock and pressing the power button.
