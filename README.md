@@ -14,12 +14,13 @@ Alternatively, you can install it manually by
 5. Select "Apply Changes"
 
 ## Currently Supported Websites
-- stackexchange.com
-- mathoverflow.net
+- stackexchange.com (including sites such as askubuntu.com, mathoverflow.net, and superuser.com)
 - reddit.com
 - youtube.com
 - twitch.tv
 - pinterest.com
+- linkedin.com
+- fandom.com
   
 ## Planned Websites
 - facebook.com
@@ -27,7 +28,6 @@ Alternatively, you can install it manually by
 - tiktok.com
 - tumblr.com
 - discord.com
-- linkedin.com
 
 ## Attention
 Please note that use of this filter will result in limited access to platform services, this blocklist is meant to browse the internet, not interact with it. As such on some websites it may remove the ability to comment, subscribe, save, or signin depending on the website. 
