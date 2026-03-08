@@ -22,7 +22,7 @@ Alternatively, you can install it manually by
 - linkedin.com
 - fandom.com
 - discord.com
-- XDA Forums
+- xdaforums.com
   
 ## Planned Websites
 - facebook.com
