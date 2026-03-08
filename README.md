@@ -21,6 +21,7 @@ Alternatively, you can install it manually by
 - pinterest.com
 - linkedin.com
 - fandom.com
+- discord.com
   
 ## Planned Websites
 - facebook.com
