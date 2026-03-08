@@ -20,6 +20,8 @@ stackexchange.com,mathoverflow.net,askubuntu.com,superuser.com##.fw-wrap.s-ancho
 stackexchange.com,mathoverflow.net,askubuntu.com,superuser.com##.disabled-link.comments-link.js-add-link
 stackexchange.com,mathoverflow.net,askubuntu.com,superuser.com###sidebar
 ! Reddit
+www.reddit.com##.text-neutral-content-weak.px-md
+www.reddit.com##.flex-auto.right-sidebar-contents
 reddit.com##.block.xs\:pb-0.pb-xl.xs\:max-w-\[316px\].xs\:w-\[316px\].w-full.min-w-0.right-sidebar
 reddit.com##.justify-end.items-center.flex.gap-xs.ps-lg
 reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2
