@@ -2,6 +2,8 @@
 ! Expires: 1 day
 ! Description: A filter list for uBlock Origin which blocks distractive elements from popular websites.
 
+! Google Sign-in Pop-up (Used in various of the below sites)
+||accounts.google.com/gsi/iframe/select$third-party
 ! Stack Exchange Sites
 stackexchange.com,mathoverflow.net,askubuntu.com,superuser.com##.js-sticky-leftnav.left-sidebar--sticky-container
 stackexchange.com,mathoverflow.net,askubuntu.com,superuser.com##.p0.s-sidebarwidget__items.s-sidebarwidget--content
@@ -19,6 +21,7 @@ stackexchange.com,mathoverflow.net,askubuntu.com,superuser.com##.site-footer--co
 stackexchange.com,mathoverflow.net,askubuntu.com,superuser.com##.fw-wrap.s-anchors__muted.s-anchors.gs8.d-flex
 stackexchange.com,mathoverflow.net,askubuntu.com,superuser.com##.disabled-link.comments-link.js-add-link
 stackexchange.com,mathoverflow.net,askubuntu.com,superuser.com###sidebar
+stackexchange.com,mathoverflow.net,askubuntu.com,superuser.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
 ! Reddit
 www.reddit.com##.text-neutral-content-weak.px-md
 www.reddit.com##.flex-auto.right-sidebar-contents
