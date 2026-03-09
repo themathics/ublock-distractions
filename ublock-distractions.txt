@@ -89,10 +89,10 @@ fandom.com###community-navigation > .fandom-community-header__local-navigation >
 discord.com##div:nth-of-type(3) > .container_e45859.channel__972a0 > .linkButton__972a0.interactive__972a0.interactive_bf202d > .link__972a0
 discord.com##.content_d125d2 > li.container_e45859.channel__972a0 > .linkButton__972a0.interactive__972a0.interactive_bf202d > .link__972a0
 discord.com##.wrapper__553bf > .container_e45859.channel__972a0 > .linkButton__972a0.interactive__972a0.interactive_bf202d > .link__972a0
-discord.com##li.container_e45859.channel__972a0:nth-of-type(1)
-discord.com##.discoveryIcon_ef3116.circleIconButton__5bc7e
-discord.com##div.listItem__650eb:nth-of-type(6) > span > .listItemWrapper__91816 > .wrapper_cc5dd2 > .shiftSVG_cc5dd2.svg_cc5dd2 > foreignObject
-discord.com##.scrollerBase_d125d2.none_d125d2.scroller_ef3116.stack_dbd263 > div.listItem__650eb > span > .listItemWrapper__91816 > .wrapper_cc5dd2 > .shiftSVG_cc5dd2.svg_cc5dd2
+discord.com##.scrollerBase_d125d2.thin_d125d2.scroller__7d20c
+discord.com##.scrollerBase_d125d2.none_d125d2.scroller_ef3116.stack_dbd263 > div.listItem__650eb > span > .listItemWrapper__91816 > .wrapper_cc5dd2 > .shiftSVG_cc5dd2.svg_cc5dd2 > foreignObject > .circleIconButton__5bc7e
+discord.com##.inviteToolbar__133bf > .clickable__9293f.iconWrapper__9293f > .icon__9293f
+discord.com##.images-dark.theme-midnight.theme-dark.bar_c38106
 ! XDA Forums
 xdaforums.com##.p-navgroup-link--whatsnew.p-navgroup-link--iconic.p-navgroup-link
 xdaforums.com##.p-navgroup-link--logIn.p-navgroup-link--textual.p-navgroup-link
