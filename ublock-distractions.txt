@@ -89,8 +89,6 @@ fandom.com###community-navigation > .fandom-community-header__local-navigation >
 discord.com##div:nth-of-type(3) > .container_e45859.channel__972a0 > .linkButton__972a0.interactive__972a0.interactive_bf202d > .link__972a0
 discord.com##.content_d125d2 > li.container_e45859.channel__972a0 > .linkButton__972a0.interactive__972a0.interactive_bf202d > .link__972a0
 discord.com##.wrapper__553bf > .container_e45859.channel__972a0 > .linkButton__972a0.interactive__972a0.interactive_bf202d > .link__972a0
-discord.com##.friendsButtonContainer_e6b769 > .container_e45859.channel__972a0 > .linkButton__972a0.interactive__972a0.interactive_bf202d > .link__972a0 > .avatarWithText__972a0.layout__20a53
-discord.com##.friendsButtonContainer_e6b769 > .container_e45859.channel__972a0 > .linkButton__972a0.interactive__972a0.interactive_bf202d > .link__972a0
 discord.com##li.container_e45859.channel__972a0:nth-of-type(1)
 discord.com##.discoveryIcon_ef3116.circleIconButton__5bc7e
 discord.com##div.listItem__650eb:nth-of-type(6) > span > .listItemWrapper__91816 > .wrapper_cc5dd2 > .shiftSVG_cc5dd2.svg_cc5dd2 > foreignObject
