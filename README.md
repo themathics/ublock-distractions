@@ -23,9 +23,10 @@ Alternatively, you can install it manually by
 - fandom.com
 - discord.com
 - xdaforums.com
+- facebook.com?
+- lumo.proton.me
   
 ## Planned Websites
-- facebook.com
 - instagram.com
 - tiktok.com
 - tumblr.com
